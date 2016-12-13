@@ -2,7 +2,7 @@
 
 Create an address book application that records users and their phone numbers. It does not require complex features 
 like contact photos or contact maching. It should simply store usernames and phone numbers, include any verification
-or business logic that you think is a basic requirement of an address book. 
+or business logic that you think is a basic requirement of an address book. Simple is better.
 
 ## Requirements
 The application must:
