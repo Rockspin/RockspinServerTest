@@ -13,6 +13,5 @@ The application must:
 - Feature whatever tests you feel are neccessary.
 
 ## Delivery
-Host the application on heroku (www.heoroku.com) and share the url once it has been created. 
-Upload a copy of the implementation here under a branch called *your_name_test*
-   
+Host the application on heroku (www.heroku.com) and share the url once it has been created. 
+Clone this repository and send us a link to your completed solution when done.
