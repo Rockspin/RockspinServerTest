@@ -14,9 +14,8 @@ or business logic that you think is a basic requirement of an address book. Simp
 
 ## Requirements
 The application must:
-- Be written using the ninja framework. (http://www.ninjaframework.org)
+- Be written using the ninja framework. (http://www.ninjaframework.org),Flask (http://flask.pocoo.org) or any javascript based framework
 - Use a postgres database as the datastore. (https://www.postgresql.org)
-- Must use hibernate to interface with this database. (http://hibernate.org) 
 - The application should be updated using a JSON rest API, with appropiate methods. 
 - Feature whatever tests you feel are neccessary.
 
